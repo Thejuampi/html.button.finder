@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="2" failures="0" name="ArgumentParserTest" time="0.009" errors="0" skipped="0">
+<testsuite tests="2" failures="0" name="ArgumentParserTest" time="0.01" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_201\jre\bin"/>
@@ -66,5 +66,5 @@
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
   <testcase classname="ArgumentParserTest" name="when_a_file_does_not_exist_then_fail" time="0.008"/>
-  <testcase classname="ArgumentParserTest" name="when_valid_file_path_then_result_has_path_to_files" time="0.001"/>
+  <testcase classname="ArgumentParserTest" name="when_valid_file_path_then_result_has_path_to_files" time="0.002"/>
 </testsuite>
